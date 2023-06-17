@@ -1,2 +1,9 @@
-# django_login_system
-A simple web app to handle user authentication in Django.
+# Flight Ticket Booking
+
+Test Cases Completes : 
+
+● Login
+
+● Sign up (with apt data validations)
+
+● Logout
